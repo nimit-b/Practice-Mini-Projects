@@ -1,0 +1,20 @@
+{
+  "texts": [
+    "what is physics",
+    "who are you",
+    "tell me about science",
+    "Ok",
+    "y",
+    "What is a Nigga?",
+    "Who are mammal?"
+  ],
+  "labels": [
+    "question",
+    "question",
+    "statement",
+    "statement",
+    "exit",
+    "question",
+    "question"
+  ]
+}

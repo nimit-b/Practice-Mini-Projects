@@ -1,0 +1,8 @@
+ID,Name,Department,Salary,JoinDate,Remote
+101,Alice Thompson,Marketing,65000,2023-01-15,True
+102,Marcus Chen,Engineering,92000,2022-11-03,False
+103,Sarah Jenkins,Design,71000,2024-02-10,True
+104,David Miller,Sales,58000,2021-09-22,False
+105,Elena Rodriguez,Product,88000,2023-05-30,True
+106,Kevin Park,Support,45000,2023-12-01,False
+107,Julia Vance,HR,62000,2022-03-14,True

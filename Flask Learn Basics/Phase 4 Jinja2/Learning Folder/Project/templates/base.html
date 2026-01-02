@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> {% block title%} My Flask Wesite {% endblock %}</title>
+        <nav>
+            <a href="/"> Home </a>
+            <a href="/skills"> Skills </a>
+            <a href="/user/Nimit"> User </a>
+            <a href="/status/Nimit/1"> Status </a>
+            <a href="/profile/Nimit/15"> Profile </a>
+        </nav>
+    </head>
+    <hr>
+    {% block content %}
+    {% endblock %}
+</hr>
+</html>

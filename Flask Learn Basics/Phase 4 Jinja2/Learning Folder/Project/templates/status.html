@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %} Status Page {% endblock %}
+{% block content %}
+<h1>Hello {{user}}</h1>
+{% if active %}
+    <p>Status = Active</p>
+{% else %}
+    <p>Status = Inactive</p>
+{% endif %}
+{% endblock %}

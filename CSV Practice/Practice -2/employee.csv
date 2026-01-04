@@ -1,0 +1,16 @@
+EmployeeID,Name,Department,Salary,HireDate,Remote
+101,Alice Johnson,Marketing,62000,2021-03-15,True
+102,Bob Smith,Sales,55000,2020-07-22,False
+103,Charlie Davis,Engineering,88000,2019-11-02,True
+104,Diana Prince,HR,51000,2022-01-10,False
+105,Edward Norton,Engineering,92000,2018-05-19,True
+106,Fiona Gallagher,Sales,58000,2021-09-30,False
+107,George Miller,Marketing,64000,2020-02-14,True
+108,Hannah Abbott,Engineering,85000,2021-06-05,True
+109,Ian Wright,HR,49000,2023-03-22,False
+110,Jane Foster,Sales,60000,2019-08-12,True
+111,Kevin Hart,Marketing,67000,2022-11-01,False
+112,Laura Palmer,Engineering,95000,2017-12-08,True
+113,Michael Scott,Sales,52000,2015-05-05,False
+114,Nina Simone,HR,53000,2020-10-18,True
+115,Oscar Wilde,Engineering,81000,2022-04-25,False
